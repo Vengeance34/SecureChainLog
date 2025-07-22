@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.joblib
+venv/
+
+# Golang
+bin/
+*.exe
+*.out
+*.test
+
+# General
+.DS_Store
+.env
+.idea/
+.vscode/
